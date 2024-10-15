@@ -1,4 +1,5 @@
 # Project: Landing Page
 
-![alt text](images/01.png)
-![alt text](images/02.png)
+
+<img src="images/01.png" />
+<img src="images/02.png" />
